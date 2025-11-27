@@ -22,7 +22,7 @@ body
     width: 80%;
 }
 
-header
+.header
 {
 	color: #000000;
 	filter: drop-shadow(2 2 2 #FFFFFF);
