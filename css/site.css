@@ -24,9 +24,10 @@ body
 
 .header
 {
-	color: #000000;
-	filter: drop-shadow(2 2 2 #FFFFFF);
-	text-align: center;
+    color: #000000;
+    font-size: 4em;
+    filter: drop-shadow(2px 2px 0px #999999);
+    text-align: center;
 }
 
 #logo
