@@ -22,6 +22,13 @@ body
     width: 80%;
 }
 
+#header
+{
+	color: #000000;
+	filter: drop-shadow(2 2 2 #FFFFFF);
+	text-align: center;
+}
+
 #logo
 {
 	display: block;
@@ -30,12 +37,14 @@ body
 
 #contents
 {
-	width: 60%;
+	width: fit-content;
 	margin: auto;
-	background: #CCCCCC;
+	background: #BBBBBB;
+	padding-right: 5px;
 }
 
 #contents a:link, a:visited, a:active
 {
 	text-decoration: none;
+	color: inherit;
 }
