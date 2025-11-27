@@ -24,12 +24,18 @@ body
 
 #logo
 {
+	display: block;
 	margin: auto auto;
 }
 
 #contents
 {
-	width: 80%;
+	width: 60%;
 	margin: auto;
 	background: #CCCCCC;
+}
+
+#contents a:link, a:visited, a:active
+{
+	text-decoration: none;
 }
