@@ -20,7 +20,11 @@ body
 {
     margin: auto auto;
     width: 80%;
-    text-align: center;
+}
+
+#logo
+{
+	margin: auto auto;
 }
 
 #contents
