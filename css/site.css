@@ -22,3 +22,10 @@ body
     width: 80%;
     text-align: center;
 }
+
+#contents
+{
+	width: 80%;
+	margin: auto;
+	background: #CCCCCC;
+}
