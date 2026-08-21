@@ -62,12 +62,17 @@ body
 	margin: auto;
 	background: #BBBBBB;
 	padding-right: 5px;
+    border-radius: 10px;
 }
 
 #contents a:link, a:visited, a:active
 {
 	text-decoration: none;
 	color: inherit;
+}
+
+li {
+    padding: 1px 5px 1px 5px;
 }
 
 @keyframes moveAndScale {
